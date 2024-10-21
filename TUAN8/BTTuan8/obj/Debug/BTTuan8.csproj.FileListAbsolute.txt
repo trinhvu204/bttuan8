@@ -1,0 +1,10 @@
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\bin\Debug\BTTuan8.exe.config
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\bin\Debug\BTTuan8.exe
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\bin\Debug\BTTuan8.pdb
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\obj\Debug\BTTuan8.csproj.AssemblyReference.cache
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\obj\Debug\BTTuan8.Form1.resources
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\obj\Debug\BTTuan8.Properties.Resources.resources
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\obj\Debug\BTTuan8.csproj.GenerateResource.cache
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\obj\Debug\BTTuan8.csproj.CoreCompileInputs.cache
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\obj\Debug\BTTuan8.exe
+C:\Users\bobmi\source\repos\TUAN8\BTTuan8\obj\Debug\BTTuan8.pdb
